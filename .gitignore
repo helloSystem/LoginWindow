@@ -1,0 +1,8 @@
+build
+*.kdev4
+.DirInfo
+CMakeLists.txt.user*
+*.diff
+*.autosave
+*.DirInfo
+*.idea*
